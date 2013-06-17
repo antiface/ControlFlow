@@ -30,5 +30,8 @@ The interface is wrong, the design is all wrong because the paradigm is wrong.
 * Part II: The Long Tail of Analysis
 * Separation of Concerns: Separate system internally. This one is about going over what you did in NewsBursts.
 * Here you read articles marked as To Read, keep tagging and classifying as you go. This is a slower process, more focused.
-* 
+
+##Top-of-Mind (ToM) Concept
+* Not TODO.txt, but Top-of-Mind (ToM) Sessions.
+
 ...work in progress, come back later...
