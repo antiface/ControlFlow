@@ -1,11 +1,8 @@
 ControlFlow
 ===========
-
 News analysis dashboard reinvented.
-
 The interface is wrong, the design is all wrong because the paradigm is wrong.
-
-##Table of Contents
+#Table of Contents
 * [The Problem] (https://github.com/antiface/ControlFlow/tree/master/Problem-Statement)
 * [The Control Center Paradigm] (https://github.com/antiface/ControlFlow/tree/master/The-Control-Center)
 * [Enter The Screen] (https://github.com/antiface/ControlFlow/tree/master/Enter-The-Screen)
