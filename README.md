@@ -9,5 +9,6 @@ The interface is wrong, the design is all wrong because the paradigm is wrong.
 * [NewsBursts] (https://github.com/antiface/ControlFlow/tree/master/NewsBursts)
 * [The Long Tail of Analysis] (https://github.com/antiface/ControlFlow/tree/master/Long-Tail-of-Analysis)
 * [Top-of-Mind (ToM) Concept] (https://github.com/antiface/ControlFlow/tree/master/Top-of-Mind)
+* [Session Management] (https://github.com/antiface/ControlFlow/tree/master/Session-Management)
 
 ...work in progress, come back later...
