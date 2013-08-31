@@ -13,3 +13,8 @@
 * Concept of NoiseSwell
 * Media monitoring
 * Intelligence analysis
+* Proactive Trend Analysis: Seasons in The Life of The NewsHole
+
+##HeadLine Counts
+* HeadLine Counts - Graph of Topics-Through-Time (TTT)
+* Lists, Lists, and Lists: The Boolean NewsLisp Paradigm
