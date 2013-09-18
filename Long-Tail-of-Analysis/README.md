@@ -7,3 +7,5 @@
 * Part II: The Long Tail of Analysis
 * Separation of Concerns: Separate system internally. This one is about going over what you did in NewsBursts.
 * Here you read articles marked as To Read, keep tagging and classifying as you go. This is a slower process, more focused.
+* Statistics, Probability, Time Series
+* How Noise is a Good Thing
