@@ -2,6 +2,7 @@
 
 * A Design Pattern Language for Newsreaders
     * The Persistence of the Skeuomorph
+    * NewsCards
 * Long-Term Trends in Visual Culture
     * Visual Studies, Visual Rhetoric, Visual Language
     * The List-Based View of the Universe and Everything
