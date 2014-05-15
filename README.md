@@ -1,4 +1,4 @@
-ControlFlow
+ControlFlow ![] (https://zenodo.org/badge/doi/10.5281/zenodo.9879.png)
 ===========
 News analysis dashboard reinvented.
 The interface is wrong, the design is all wrong because the paradigm is wrong.
