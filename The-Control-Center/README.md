@@ -3,6 +3,7 @@
 * A Design Pattern Language for Newsreaders
 * Long-Term Trends in Visual Culture
 * The Control Center Paradigm
+ * DASHBOARD FOR RACECAR EARTH
 * Information Management: Structure and Retrieval
 
 THE CONTROL CENTER =>
